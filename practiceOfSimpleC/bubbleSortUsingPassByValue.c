@@ -34,3 +34,15 @@ void swap(int *element1Ptr, int *element2Ptr)
   *element1Ptr=*element2Ptr;
   *element2Ptr=hold;
 }
+
+
+/*
+
+(base) PS C:\Users\user\adv_C> .\bubbleSortUsingPassByValue.exe
+Data items in original order
+   2   6   4   8  10  12  89  68  45  37
+Data items in original order
+   2   4   6   8  10  12  37  45  68  89
+
+
+*/
