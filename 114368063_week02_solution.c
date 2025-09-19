@@ -79,4 +79,24 @@ that is command line argument -> int main(int argc, char *argv[])
 
 don't use[] to access(read and write)array elements
 
+reslut:
+
+PS C:\Users\User\OneDrive\桌面\@user\課程\進階c語言\week2(pointer and argv[])> .\main.exe 16 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Original Matrix:
+  1  2  3  4
+  5  6  7  8
+  9 10 11 12
+ 13 14 15 16
+
+swap 1st row and 3rd row:
+  9 10 11 12
+  5  6  7  8
+  1  2  3  4
+ 13 14 15 16
+
+swap 1st column and 3rd column:
+ 11 10  9 12
+  7  6  5  8
+  3  2  1  4
+ 15 14 13 16
 */
