@@ -3,8 +3,12 @@
 
 
 ### NOTICE：
-不要寫一行程式, e.g
+- 不要寫一行程式, e.g
 
 ```
 for(int i=0;i<10;i++) printf("hello!!\n");
 ```
+
+
+- 多加利用Makefile
+
